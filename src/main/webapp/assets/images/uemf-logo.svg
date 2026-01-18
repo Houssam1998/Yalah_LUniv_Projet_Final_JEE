@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <rect width="200" height="60" fill="#003B73"/>
+  <text x="10" y="40" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">UEMF</text>
+  <text x="85" y="40" fill="#6BBE45" font-family="Arial, sans-serif" font-size="14">Euromed</text>
+</svg>
